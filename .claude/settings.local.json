@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(gsd-new-milestone)",
+      "Skill(gsd-new-project)",
+      "Bash(git remote *)",
+      "WebSearch",
+      "Bash(npx *)",
+      "Bash(gsd-sdk query *)",
+      "WebFetch(domain:whatsappbusiness.com)",
+      "WebFetch(domain:www.whatsapp.com)",
+      "WebFetch(domain:web.dev)",
+      "WebFetch(domain:developers.google.com)",
+      "WebFetch(domain:business.whatsapp.com)",
+      "WebFetch(domain:faq.whatsapp.com)",
+      "Bash(mv ../warkopadf-temp/* .)",
+      "Bash(mv ../warkopadf-temp/.* .)",
+      "Bash(rm -rf ../warkopadf-temp)",
+      "Bash(git add *)"
+    ]
+  }
+}
