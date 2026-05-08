@@ -20,6 +20,10 @@
 # production
 /build
 
+# GSD planning directories
+.claude/
+.planning/
+
 # misc
 .DS_Store
 *.pem
