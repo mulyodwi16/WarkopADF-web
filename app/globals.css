@@ -20,18 +20,3 @@ body {
   background: var(--white);
   color: var(--navy);
 }
-
-@layer components {
-  .btn-primary {
-    @apply bg-primary text-white px-6 py-3 rounded-full font-medium transition-all hover:bg-opacity-90;
-  }
-  .btn-secondary {
-    @apply bg-secondary text-navy px-6 py-3 rounded-full font-medium transition-all hover:bg-opacity-90;
-  }
-  .card {
-    @apply bg-white rounded-2xl shadow-lg overflow-hidden;
-  }
-  .card-hover {
-    @apply transition-transform hover:scale-105 hover:shadow-xl;
-  }
-}

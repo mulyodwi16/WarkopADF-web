@@ -75,7 +75,7 @@ export default function CateringPage() {
             href={WHATSAPP_LINK}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block bg-secondary text-navy font-semibold px-8 py-4 rounded-full hover:bg-opacity-90 transition-all"
+            className="inline-block bg-secondary text-navy font-semibold px-8 py-4 rounded-full hover:opacity-80 transition-all"
           >
             Hubungi Kami via WhatsApp
           </Link>

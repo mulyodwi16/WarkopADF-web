@@ -16,7 +16,13 @@
       "Bash(mv ../warkopadf-temp/* .)",
       "Bash(mv ../warkopadf-temp/.* .)",
       "Bash(rm -rf ../warkopadf-temp)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git branch *)",
+      "Bash(git push *)",
+      "Bash(pkill -f \"next dev\")",
+      "Bash(npm run *)",
+      "Bash(git commit *)"
     ]
   }
 }

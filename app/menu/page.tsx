@@ -41,7 +41,7 @@ export default function MenuPage() {
             href={`https://wa.me/6281515760009?text=${encodeURIComponent("Halo WarkopADF, saya ingin bertanya tentang menu.")}`}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block bg-secondary text-navy font-semibold px-8 py-4 rounded-full hover:bg-opacity-90 transition-all"
+            className="inline-block bg-secondary text-navy font-semibold px-8 py-4 rounded-full hover:opacity-80 transition-all"
           >
             Tanya Harga
           </a>
